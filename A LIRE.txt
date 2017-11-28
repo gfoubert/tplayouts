@@ -1,0 +1,31 @@
+Bonsoir.
+
+Comme vous pouvez le constater je suis effectivement en retard.
+Je possède une excellente raison.
+
+Lors du TP de la semaine dernière je n'ai rencontré aucuns problèmes
+durant l'élaboration de l'application.
+Comme la majorité des élèvres, à la fin des deux heures je n'avais 
+pas terminé mon application.
+Et comme vous êtes venus nous voir en nous disant "Vous pouvez me le git ce soir"
+Je me suis dis que je pouvais la peaufiner chez moi et vous l'envoyer.
+
+C'est la qu'intervient mon problème. 
+A l'ouverture de mon ordinateur chez moi, strictement IMPOSSIBLE de synchroniser le Gradle project
+L'application était incompilable et je n'avais aucunes prévisualisation de ce que je faisais.
+
+Je suis allé voir Nicolas Lehmann pour qu'il m'aide, il m'a dit que mon android studio était foutu et que je devais le réinstaller.
+Cela fait donc une semaine que je réinstalle android studio environ 3 fois par jour avec un API différent (Conseil de Nicolas) pour tenter de résoudre le problème 
+Mon problème ne s'est toujours pas résolu et je vous cache pas que je n'en peux plus.
+Ca me fatigue de ne pas pouvoir avancer au même rythme que tout le monde parce que j'ai des merdes dans tous les sens.
+Je met de la bonne volonté je vous le promet mais là j'en peux plus.
+
+Néanmoins je vais vous faire parvenir mes activités codées en brut pour que vous puissiez quand même vous faire une idée.
+
+Depuis la semaine dernière je n'ai donc pas avancé d'un pouce et ne croyez surtout pas que je n'ai pas essayé de résoudre mon problème.
+
+En espérant trouver une solution diplomate et technique à mon problème.
+
+Bonne soirée à vous
+
+Guillaume FOUBERT.
